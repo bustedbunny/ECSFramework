@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69305804-e4b3-41a6-be37-7399356ed159" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/BookKeeper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/BookKeeper.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CompSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/CompSystem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECSFramework.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ECSFramework.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECSFrameworkMod.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/ECSFrameworkMod.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Harmony/RegisterPatch.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/Harmony/RegisterPatch.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Harmony/TickPatch.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/Harmony/TickPatch.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Harmony/UnregisterPatch.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/Harmony/UnregisterPatch.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SystemBase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/SystemBase.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Release/0Harmony.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Release/ECSFramework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Release/ECSFramework.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/ECSFramework.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Release/ECSFramework.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/ECSFramework.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Release/ECSFramework.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/ECSFramework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Release/ECSFramework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/ECSFramework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Release/ECSFramework.pdb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2EapGQttxR9UbIINbTa0Bs8dP7d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1662843453620</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662843453620</updated>
+      <workItem from="1662843463752" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
