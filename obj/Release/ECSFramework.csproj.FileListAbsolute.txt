@@ -6,3 +6,6 @@ F:\VisualStudioRepos\RimworldMods\ECSFramework\obj\Release\ECSFramework.dll
 F:\VisualStudioRepos\RimworldMods\ECSFramework\obj\Release\ECSFramework.pdb
 F:\VisualStudioRepos\RimworldMods\ECSFramework\obj\Release\ECSFramework.csproj.CopyComplete
 F:\VisualStudioRepos\RimworldMods\ECSFramework\bin\Release\0Harmony.dll
+F:\VisualStudioRepos\RimworldMods\ECSFramework\Assemblies\ECSFramework.dll
+F:\VisualStudioRepos\RimworldMods\ECSFramework\Assemblies\ECSFramework.pdb
+F:\VisualStudioRepos\RimworldMods\ECSFramework\Assemblies\0Harmony.dll

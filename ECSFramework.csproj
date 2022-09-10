@@ -28,7 +28,7 @@
         <PlatformTarget>AnyCPU</PlatformTarget>
         <DebugType>pdbonly</DebugType>
         <Optimize>true</Optimize>
-        <OutputPath>bin\Release\</OutputPath>
+        <OutputPath>Assemblies</OutputPath>
         <DefineConstants>TRACE</DefineConstants>
         <ErrorReport>prompt</ErrorReport>
         <WarningLevel>4</WarningLevel>
@@ -41,14 +41,14 @@
 
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="CompSystem.cs" />
-        <Compile Include="BookKeeper.cs" />
-        <Compile Include="ECSFrameworkMod.cs" />
-        <Compile Include="Harmony\RegisterPatch.cs" />
-        <Compile Include="Harmony\TickPatch.cs" />
-        <Compile Include="Harmony\UnregisterPatch.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
-        <Compile Include="SystemBase.cs" />
+        <Compile Include="Runtime\BookKeeper.cs" />
+        <Compile Include="Runtime\CompSystem.cs" />
+        <Compile Include="Runtime\ECSFrameworkMod.cs" />
+        <Compile Include="Runtime\Harmony\RegisterPatch.cs" />
+        <Compile Include="Runtime\Harmony\TickPatch.cs" />
+        <Compile Include="Runtime\Harmony\UnregisterPatch.cs" />
+        <Compile Include="Runtime\SystemBase.cs" />
     </ItemGroup>
 
     <ItemGroup>
