@@ -41,10 +41,6 @@
             "Lib.Harmony": {
               "target": "Package",
               "version": "[2.2.2, )"
-            },
-            "Mono.Cecil": {
-              "target": "Package",
-              "version": "[0.11.4, )"
             }
           }
         }

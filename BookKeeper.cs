@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using Mono.Unix.Native;
-using Unity.Collections;
 using Verse;
 
 namespace ECSFramework
@@ -39,7 +37,14 @@ namespace ECSFramework
         {
             foreach (var systemBase in _systems)
             {
-                systemBase.Tick();
+                try
+                {
+                    systemBase.Tick();
+                }
+                catch (Exception e)
+                {
+                    Log.Error($"Exception ticking system. {e}");
+                }
             }
         }
 

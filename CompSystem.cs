@@ -11,15 +11,15 @@ namespace ECSFramework
 
         public bool Init(Type type)
         {
-            if (type.GetMethod(nameof(ThingComp.CompTick)).DeclaringType == type)
+            if (type.GetMethod(nameof(ThingComp.CompTick))?.DeclaringType == type)
             {
                 _tickerType = TickerType.Normal;
             }
-            else if (type.GetMethod(nameof(ThingComp.CompTickRare)).DeclaringType == type)
+            else if (type.GetMethod(nameof(ThingComp.CompTickRare))?.DeclaringType == type)
             {
                 _tickerType = TickerType.Rare;
             }
-            else if (type.GetMethod(nameof(ThingComp.CompTickLong)).DeclaringType == type)
+            else if (type.GetMethod(nameof(ThingComp.CompTickLong))?.DeclaringType == type)
             {
                 _tickerType = TickerType.Long;
             }
@@ -54,30 +54,32 @@ namespace ECSFramework
 
         private void NormalTick()
         {
-            foreach (var thingComp in _comps)
+            for (int i = _comps.Count - 1; i >= 0; i--)
             {
-                thingComp.CompTick();
+                _comps[i].CompTick();
             }
         }
 
         private void RareTick()
         {
-            foreach (var thingComp in _comps)
+            for (int i = _comps.Count - 1; i >= 0; i--)
             {
-                if (thingComp.parent.IsHashIntervalTick(250))
+                var comp = _comps[i];
+                if (comp.parent.IsHashIntervalTick(250))
                 {
-                    thingComp.CompTickRare();
+                    _comps[i].CompTickRare();
                 }
             }
         }
 
         private void LongTick()
         {
-            foreach (var thingComp in _comps)
+            for (int i = _comps.Count - 1; i >= 0; i--)
             {
-                if (thingComp.parent.IsHashIntervalTick(2000))
+                var comp = _comps[i];
+                if (comp.parent.IsHashIntervalTick(2000))
                 {
-                    thingComp.CompTickLong();
+                    _comps[i].CompTickRare();
                 }
             }
         }
