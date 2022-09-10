@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SuaVb6x9MmW1kiKsYyHMB9rMl+znOgRd+mWvnkLEHsp69wqjCc6gvuxchgE4tacUBbh3e8M0YEoxlF/aO2fp2w==",
+  "success": true,
+  "projectFilePath": "F:\\VisualStudioRepos\\RimworldMods\\ECSFramework\\ECSFramework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\buste\\.nuget\\packages\\krafs.rimworld.ref\\1.3.3389\\krafs.rimworld.ref.1.3.3389.nupkg.sha512",
+    "C:\\Users\\buste\\.nuget\\packages\\lib.harmony\\2.2.2\\lib.harmony.2.2.2.nupkg.sha512",
+    "C:\\Users\\buste\\.nuget\\packages\\mono.cecil\\0.11.4\\mono.cecil.0.11.4.nupkg.sha512"
+  ],
+  "logs": []
+}

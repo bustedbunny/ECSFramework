@@ -1,0 +1,16 @@
+F:\VisualStudioRepos\RimworldMods\ECSFramework\bin\Release\ECSFramework.dll
+F:\VisualStudioRepos\RimworldMods\ECSFramework\bin\Release\ECSFramework.pdb
+F:\VisualStudioRepos\RimworldMods\ECSFramework\obj\Release\ECSFramework.csproj.AssemblyReference.cache
+F:\VisualStudioRepos\RimworldMods\ECSFramework\obj\Release\ECSFramework.csproj.CoreCompileInputs.cache
+F:\VisualStudioRepos\RimworldMods\ECSFramework\obj\Release\ECSFramework.dll
+F:\VisualStudioRepos\RimworldMods\ECSFramework\obj\Release\ECSFramework.pdb
+F:\VisualStudioRepos\RimworldMods\ECSFramework\bin\Release\Mono.Cecil.Mdb.dll
+F:\VisualStudioRepos\RimworldMods\ECSFramework\bin\Release\Mono.Cecil.Mdb.pdb
+F:\VisualStudioRepos\RimworldMods\ECSFramework\bin\Release\Mono.Cecil.Pdb.dll
+F:\VisualStudioRepos\RimworldMods\ECSFramework\bin\Release\Mono.Cecil.Pdb.pdb
+F:\VisualStudioRepos\RimworldMods\ECSFramework\bin\Release\Mono.Cecil.Rocks.dll
+F:\VisualStudioRepos\RimworldMods\ECSFramework\bin\Release\Mono.Cecil.Rocks.pdb
+F:\VisualStudioRepos\RimworldMods\ECSFramework\bin\Release\Mono.Cecil.dll
+F:\VisualStudioRepos\RimworldMods\ECSFramework\bin\Release\Mono.Cecil.pdb
+F:\VisualStudioRepos\RimworldMods\ECSFramework\obj\Release\ECSFramework.csproj.CopyComplete
+F:\VisualStudioRepos\RimworldMods\ECSFramework\bin\Release\0Harmony.dll
